@@ -2,6 +2,8 @@
 
 A production-ready **Model Context Protocol (MCP) server** for weather intelligence, built with TypeScript, Express, and the [Open-Meteo API](https://open-meteo.com/). Deployed on Render with Auth0 JWT authentication and OAuth 2.0 support.
 
+> **Built on an iPhone 17** using [Claude Code](https://claude.ai/code) (web) and the GitHub iOS app — no laptop required.
+
 ## Features
 
 - **14 weather tools** across two layers of abstraction
